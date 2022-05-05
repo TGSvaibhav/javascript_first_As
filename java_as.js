@@ -203,5 +203,8 @@ body.style.backgroundColor="black";
 tableMain.style.backgroundColor="#989898 ";
 mainDiv.classList.add("container-fluid");
 mainDiv.classList.add("mt-2");
+tableRow1.style.backgroundColor="#575757";
+tableRow3.style.backgroundColor="#C0C0C0";
+tableRow5.style.backgroundColor="#C0C0C0";
 
 })();
